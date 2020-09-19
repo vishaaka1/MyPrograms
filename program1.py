@@ -17,7 +17,7 @@ while left_side < right_side:
     else:
         right_side -= 1
         left_side += 1
-print(''.join(string_list))
+print(string_list)
 
 
 
